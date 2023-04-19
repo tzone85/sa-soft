@@ -154,4 +154,4 @@
  - Then run `php artisan db:seed` when going to your DB, you should see these users created with all the correct fields
 
 #### go to your localhost:3000 
-    Register and login to see the dashboard
+    Register and login to see the dashboard with the test users as well, from the db:seed
