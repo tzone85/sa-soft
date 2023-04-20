@@ -2,6 +2,7 @@
 # SA Soft
 
 ## Structure
+```bash
 .
 ├── README.md
 ├── app
@@ -138,6 +139,7 @@
 │   └── Unit
 │       └── ExampleTest.php
 └── vite.config.js
+```
 ## Development server
 
  - Within the projects root directory, go to `.env.example`, rename it to `.env`, then proceed to enter your db credentials depending on your choice of a db client, from the options provided
